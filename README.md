@@ -43,7 +43,7 @@ Desenvolvemos a interface da nossa aplicação Upload.ai. que é uma plataforma
 Você vai me encontrar em qualquer uma das redes sociais abaixo:
 
 <a href = "mailto: raphaelc484@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" margin-right="10px"></a>
-<a href="https://www.linkedin.com/in/raphaelc484/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="http://shre.ink/raphaelmiranda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 <p align="center">Aplicação construída com muito ☕ por Raphael Clemente Miranda</p>
